@@ -12,5 +12,7 @@ This repository contains the analysis code for the above manuscript.
 
 All neural and behavioural data can be found in the following link: 
 
+https://zenodo.org/record/4327565
+
 
 
